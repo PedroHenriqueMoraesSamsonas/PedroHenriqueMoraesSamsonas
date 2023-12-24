@@ -1,4 +1,4 @@
-<div style="background-color:white;">
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6E0A78&size=25&left=true&width=1000&lines=Eae,+meu+nome+%C3%A9+Pedro+Henrique;Tenho+16+anos;Curso+Desenvolvimento+de+Sistemas)
 
 <div align="center"> 
@@ -23,5 +23,5 @@
   <a href="https://instagram.com/Pedro%20Henrique%20Moraes%20Samsonas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedrohenriquemsamsonas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-</div>
+
 </div>
