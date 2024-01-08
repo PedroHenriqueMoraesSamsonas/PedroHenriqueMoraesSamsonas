@@ -12,6 +12,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueMoraesSamsonas&show_icons=true" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 </picture>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueMoraesSamsonas&layout=compact&hide_border=true&title_color=fff&title=Linguagens%20Mais%20Usadas&text_color=ffff&bg_color=0d1117" />
 </div>
