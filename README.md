@@ -1,6 +1,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6E0A78&size=25&left=true&width=1000&lines=Eae,+meu+nome+%C3%A9+Pedro+Henrique;Tenho+16+anos;Curso+Desenvolvimento+de+Sistemas)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueMoraesSamsonas&langs_count=8)
 <div align="center"> 
  <picture>
   <source
