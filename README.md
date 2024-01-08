@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=140e3d&size=25&left=true&width=1000&lines=Eae,+meu+nome+%C3%A9+Pedro+Henrique;Tenho+16+anos;Curso+Desenvolvimento+de+Sistemas)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=013382&size=25&left=true&width=1000&lines=Eae,+meu+nome+%C3%A9+Pedro+Henrique;Tenho+16+anos;Curso+Desenvolvimento+de+Sistemas)
 
 <div align="center"> 
  <picture>
