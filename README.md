@@ -5,7 +5,7 @@
  <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=PedroHenriqueMoraesSamsonas&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dracula)"
+    media="(prefers-color-scheme: highcontrast)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=PedroHenriqueMoraesSamsonas&show_icons=true"
