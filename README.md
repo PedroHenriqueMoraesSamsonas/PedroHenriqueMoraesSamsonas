@@ -2,6 +2,17 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6E0A78&size=25&left=true&width=1000&lines=Eae,+meu+nome+%C3%A9+Pedro+Henrique;Tenho+16+anos;Curso+Desenvolvimento+de+Sistemas)
 
 <div align="center"> 
+ <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueMoraesSamsonas&layout=compact&hide_border=true&title_color=fff&title=Linguagens%20Mais%20Usadas&text_color=ffff&bg_color=0d1117" />
 </div>
 
