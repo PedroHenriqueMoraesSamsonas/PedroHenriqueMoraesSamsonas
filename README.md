@@ -4,8 +4,8 @@
 <div align="center"> 
  <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PedroHenriqueMoraesSamsonas&show_icons=true&theme=dracula"
-    media="(prefers-color-scheme: dracula)"
+    srcset="https://github-readme-stats.vercel.app/api?username=PedroHenriqueMoraesSamsonas&show_icons=true&theme=onedark"
+    media="(prefers-color-scheme: onedark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=PedroHenriqueMoraesSamsonas&show_icons=true"
