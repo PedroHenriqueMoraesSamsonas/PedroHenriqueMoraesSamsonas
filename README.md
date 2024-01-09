@@ -3,7 +3,7 @@
 
 <div align="center"> 
  <picture>
- <img src = "https://github-readme-stats.vercel.app/api?username=PedroHenriqueMoraesSamsonas&show_icons=true&theme=dracula"/>
+ <img src = "https://github-readme-stats.vercel.app/api?username=PedroHenriqueMoraesSamsonas&show_icons=true&theme=dracula&bg_color=3b3861&title_color=6059eb"/>
  
 </picture>
 
