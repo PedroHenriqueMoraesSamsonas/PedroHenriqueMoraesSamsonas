@@ -7,7 +7,7 @@
  
 </picture>
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueMoraesSamsonas&layout=compact&hide_border=false&title=Linguagens%20Mais%20Usadas&text_color=fff&title_color=6059eb&bg_color=0e0d17&font_size=90px" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueMoraesSamsonas&layout=compact&hide_border=false&title=Linguagens%20Mais%20Usadas&text_color=fff&title_color=6059eb&bg_color=0e0d17&text_size=90px" />
 </div>
 
 ##
