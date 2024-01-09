@@ -6,7 +6,7 @@
  <img src = "https://github-readme-stats.vercel.app/api?username=PedroHenriqueMoraesSamsonas&show_icons=true&theme=dracula&bg_color=0e0d17&title_color=6059eb"/>
  
 </picture>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)]https://github.com/anuraghazra/github-readme-stats"
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=piehttps://github.com/anuraghazra/github-readme-stats"
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueMoraesSamsonas&layout=compact&hide_border=false&title=Linguagens%20Mais%20Usadas&text_color=fff&title_color=6059eb&bg_color=0e0d17" />
 </div>
 
