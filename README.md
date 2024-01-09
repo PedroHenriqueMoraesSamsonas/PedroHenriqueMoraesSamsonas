@@ -6,7 +6,7 @@
  
 </picture>
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueMoraesSamsonas&layout=pie&hide_border=false&title=Linguagens%20Mais%20Usadas&text_color=fff&title_color=6059eb&bg_color=0e0d17"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueMoraesSamsonas&layout=compact&hide_border=false&title=Linguagens%20Mais%20Usadas&text_color=fff&title_color=6059eb&bg_color=0e0d17" />
+
 </div>
 
 ##
