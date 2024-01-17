@@ -3,7 +3,7 @@
 <div align="center"> 
  <img src = "https://github-readme-stats.vercel.app/api?username=PedroHenriqueMoraesSamsonas&show_icons=true&theme=dracula&bg_color=0e0d17&title_color=6059eb"/>
  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueMoraesSamsonas&layout=pie&hide_border=false&title=Linguagens%20Mais%20Usadas&text_color=fff&title_color=6059eb&bg_color=0e0d17"/>
- <img height="195px" src="https://streak-stats.demolab.com?user=PedroHenriqueMoraesSamsonas&theme=dracula&date_format=j%2Fn%5B%2FY%5D&bg_color=0e0d17&title_color=6059eb"/>
+ <img height="195px" src="https://streak-stats.demolab.com?user=PedroHenriqueMoraesSamsonas&date_format=j%2Fn%5B%2FY%5D&bg_color=0e0d17&title_color=6059eb"/>
 </div>
 </div>
 
